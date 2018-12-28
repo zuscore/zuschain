@@ -17,8 +17,8 @@ ZurShares is the proof-of-stake and masternode version of ZurCoin. It'll be deve
 	<tr><td>Coin Maturity</td><td>101</td></tr>
 	<tr><td>Stake Maturity</td><td>8 hours</td></tr>
 	<tr><td>PoS Difficulty Retargeting</td><td>Every Block</td></tr>
-	<tr><td>Max Coin Supply</td><td>50 000 000 SND</td></tr> 
-	<tr><td>Premine</td><td>1 500 000 SND</td></tr>
+	<tr><td>Max Coin Supply</td><td>50 000 000 ZUS</td></tr> 
+	<tr><td>Premine</td><td>1 500 000 ZUS</td></tr>
 	<tr><td>Halving factor(75%)</td><td>Every 6 months</td></tr>
 	<tr><td>Masternode Collateral</td><td>10 000 ZUS</td></tr>
 </tbody>
