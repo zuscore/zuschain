@@ -7,7 +7,7 @@ ZurShares is the proof-of-stake and masternode version of ZurCoin. It'll be deve
 ### Specification of ZUS
 <table>
 <tbody>
-	<tr><td>Coin Name</td><td>ZurStake</td></tr>
+	<tr><td>Coin Name</td><td>ZurShares</td></tr>
 	<tr><td>Coin Type</td><td>PoS/MN</td></tr>
 	<tr><td>Coin Ticker</td><td>ZUS</td></tr>	
 	<tr><td>Algo</td><td>Quark</td></tr>
